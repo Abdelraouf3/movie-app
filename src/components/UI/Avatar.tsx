@@ -9,7 +9,7 @@ const Avatar = ( {currentAvatar = 'batman', size = 'w-16 h-16'}: AvatarProps ) =
 
     const getImageUrl = (name: string) => {
     
-        return new URL(`../../assets/images/avatars/${name}.png`, import.meta.url).href
+        return new URL(`/images/avatars/${name}.png`, import.meta.url).href
     
     };
 

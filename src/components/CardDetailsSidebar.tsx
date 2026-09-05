@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { AnimatePresence, motion, Variants } from 'motion/react'
 import Button from './UI/Button'
-import posterImage from '../assets/images/posters/image.webp'
+import posterImage from '/images/posters/image.webp'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowLeft, faBars, faList, faPlay, faStar, faStepBackward, faStepForward, faTableCells, faUpDown, faVideoSlash } from '@fortawesome/free-solid-svg-icons'
 import { faCirclePlay, faClock, faComment, faHeart as faHeartRegular } from '@fortawesome/free-regular-svg-icons';
