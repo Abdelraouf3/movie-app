@@ -1,0 +1,94 @@
+@import "tailwindcss";
+@import './styles/_components.css';
+@import './styles/_utilities.css';
+
+@layer base {
+
+    * {
+        box-sizing: border-box
+    }
+
+    html {
+        scrollbar-gutter: stable;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+        color: var(--color-white-pure);
+    }
+
+    img,
+    video {
+        max-width: 100%;
+        height: auto;
+    }
+
+    a {
+        @apply no-underline;
+    }
+
+}
+
+
+
+
+/* The switch - the box around the slider */
+.switch {
+    font-size: 17px;
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--color-white-ghost);
+    outline: none;
+    transition: .4s;
+    border-radius: 30px;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    border-radius: 20px;
+    right: 3px;
+    bottom: 3px;
+    background-color: var(--color-night-base);
+    border: none;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+input:disabled+.slider {
+    background-color: var(--color-zinc-deep);
+}
+
+input:disabled+.slider:before {
+    background-color: var(--color-night-base);
+    transform: translateX(-20px);
+    -webkit-transform: translateX(-20px);
+    -moz-transform: translateX(-20px);
+    -ms-transform: translateX(-20px);
+    -o-transform: translateX(-20px);
+}

@@ -1,0 +1,173 @@
+[
+
+    {
+    
+        "id": 1,
+        "title": "Obsession",
+        "description": "After breaking the mysterious 'One Wish Willow' to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "genre": ["Horror"],
+        "IMDBRate": "8.0",
+        "quality": "TS | JEN",
+        "category": "PG-13",
+        "time": "108 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/obsessionBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/obsessionPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/obsessionTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 2,
+        "title": "Rick and Morty",
+        "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "genre": ["Animation", "Comedy", "Sci-Fi & Fantasy"],
+        "IMDBRate": "8.7",
+        "quality": "HD",
+        "category": "PG-13",
+        "time": "119 min",
+        "year": 2013,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/rickAndmoryBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/rickAndmoryPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/rickAndmoryTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 3,
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+        "genre": ["Music", "Drama"],
+        "IMDBRate": "7.6",
+        "quality": "TS v2 | SyncUp",
+        "category": "PG-13",
+        "time": "128 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/michaelBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/michaelPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/michaelTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 4,
+        "title": "From",
+        "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+        "genre": ["Mystery", "Drama", "Sci-Fi & Fantasy"],
+        "IMDBRate": "8.4",
+        "quality": "HD",
+        "category": "PG-13",
+        "time": "119 min",
+        "year": 2022,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/fromBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/fromPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/fromTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 5,
+        "title": "The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+        "genre": ["Action", "Adventure", "Science Fiction"],
+        "IMDBRate": "6.8",
+        "quality": "CAM | EaZy",
+        "category": "PG-13",
+        "time": "132 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/theMandalorianAndGroguBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/theMandalorianAndGroguPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/theMandalorianAndGroguTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 6,
+        "title": "Star Wars: Maul - Shadow Lord",
+        "description": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+        "genre": ["Action & Adventure", "Animation", "Sci-Fi & Fantasy"],
+        "IMDBRate": "8.5",
+        "quality": "HD",
+        "category": "PG-13",
+        "time": "119 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/starWarsMaulShadowLordBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/starWarsMaulShadowLordPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/starWarsMaulShadowLordTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 7,
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+        "genre": ["Action", "Fantasy", "Adventure"],
+        "IMDBRate": "6.8",
+        "quality": "DCPRip",
+        "category": "PG-13",
+        "time": "116 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/mortalKombatIIBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/mortalKombatIIPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/mortalKombatIITitle.webp"
+    
+    },
+
+    {
+    
+        "id": 8,
+        "title": "INVINCIBLE",
+        "description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+        "genre": ["Animation", "Drama", "Sci-Fi & Fantasy"],
+        "IMDBRate": "8.6",
+        "quality": "HD",
+        "category": "PG-13",
+        "time": "119 min",
+        "year": 2021,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/INVINCIBLEBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/INVINCIBLEPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/INVINCIBLETitle.webp"
+    
+    },
+
+    {
+    
+        "id": 9,
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+        "genre": ["Horror", "Mystery"],
+        "IMDBRate": "8.1",
+        "quality": "HD",
+        "category": "PG-13",
+        "time": "133 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/leeCroninsTheMummyBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/leeCroninsTheMummyPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/leeCroninsTheMummyTitle.webp"
+    
+    },
+
+    {
+    
+        "id": 10,
+        "title": "A Knight of the Seven Kingdoms",
+        "description": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+        "genre": ["Drama", "Sci-Fi & Fantasy", "Action & Adventure"],
+        "IMDBRate": "8.4",
+        "quality": "HD",
+        "category": "PG-13",
+        "time": "119 min",
+        "year": 2026,
+        "bannerBackgroundImage": "/src/assets/images/hero-banner/aKnightOfTheSevenKingdomsBackground.webp",
+        "bannerPosterImage": "/src/assets/images/hero-banner/aKnightOfTheSevenKingdomsPoster.webp",
+        "bannerTitleImage": "/src/assets/images/hero-banner/aKnightOfTheSevenKingdomsTitle.webp"
+    
+    }
+
+]

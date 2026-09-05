@@ -1,0 +1,111 @@
+@import './_theme.css';
+
+@layer components {
+
+    /* Titles */
+
+    .title-card {
+        @apply font-Inter_28pt-Bold text-[30px] leading-9;
+    }
+
+    .title-sub {
+        @apply font-Inter_28pt-Bold text-[22px] text-white leading-9;
+    }
+
+    /* Descriptions */
+
+    .desc-base {
+        @apply text-gray-400 text-sm leading-relaxed;
+    }
+
+    /* Buttons */
+
+    .btn-base {
+        @apply text-[16px] font-Inter_18pt-Bold cursor-pointer py-1.5 px-4 lg:py-2 lg:px-8 leading-6 transition-all duration-300;
+    }
+
+    .roundedYellowBtn-base {
+        @apply bg-gold-bright text-black-pure border-0 rounded-[9999px];
+    }
+
+    .roundedYellowBtn-hover {
+        @apply hover:opacity-[.8];
+    }
+
+    .grayBtn-base {
+        @apply bg-space-blue text-white-ghost border border-white-border rounded-xl cursor-default;
+    }
+
+    .grayBtn-hover {
+        @apply hover:bg-[#2a3040] hover:text-white-pure hover:border-[#ffffff33];
+    }
+
+    .transparentBtn-base {
+        @apply bg-transparent text-white-ghost border border-white-border rounded-xl cursor-pointer;
+    }
+
+    .transparentBtn-hover {
+        @apply hover:bg-gold-bright hover:text-black-pure hover:border-[#ffffff33];
+    }
+
+    .whiteBtn-base {
+        @apply text-black bg-white-ghost text-[14px] rounded-[10px] border border-white-haze backdrop-blur-sm;
+    }   
+
+    .whiteBtn-hover {
+        @apply hover:opacity-85 hover:border-white-soft;
+    }
+
+    .whiteRoundedBtn-base {
+        @apply text-black bg-white text-sm font-bold min-w-24 backdrop-blur-none rounded-full capitalize text-[13px] py-2.5 px-6 cursor-pointer; 
+    }
+
+    .whiteRoundedBtn-hover {
+        @apply hover:scale-105;
+    }
+
+    .detailedRoundedBtn-base {
+        @apply text-white bg-white/20 text-sm font-bold min-w-24 backdrop-blur-none rounded-full capitalize text-[13px] py-2.5 px-6 cursor-pointer;
+    }
+
+    .detailedRoundedBtn-hover {
+        @apply hover:backdrop-blur-sm hover:scale-105;
+    }
+
+    .paginationBtn-base {
+        @apply py-2 px-8 leading-8 border-0 rounded-sm bg-space-blue text-white-ghost ;
+    }
+
+    .paginationBtn-hover {
+        @apply hover:bg-[#2a3040] hover:text-white-pure;
+    }
+
+    .disabledBtn {
+        @apply text-sm bg-white/5 border border-white/10 px-3 backdrop-blur-sm opacity-50 leading-8 rounded-md cursor-default disabled:opacity-50;
+    }
+
+    .greenRoundedBadge {
+        @apply bg-brand-green text-white border border-brand-green rounded-sm leading-5 text-[12px] font-Inter_28pt-Black px-1 py-0 md:py-0.5 md:px-3 w-fit;
+    }
+
+    .yellowRoundedBadge-base {
+        @apply bg-dark-yellow text-black rounded-full leading-5 text-[12px] font-Inter_28pt-Black py-0.5 px-3 transition-colors duration-200 w-fit;
+    }
+
+    .yellowRoundedBadge-hover {
+        @apply hover:bg-off-white;
+    }
+
+    .yellowBadge {
+        @apply flex-center gap-1 bg-brand-yellow text-black rounded-sm leading-4 font-Inter_28pt-Black text-[14px] px-2 py-1 w-fit;
+    }
+
+    .transparentBadge {
+        @apply bg-night-base text-white rounded-full leading-5 font-Inter_18pt-Medium text-[12px] py-0.5 px-1 md:font-Inter_28pt-Black md:text-[16px] md:py-1 md:px-3 border border-gray-600 w-fit;
+    }
+
+    .spaceBlueBadge {
+        @apply bg-white/10 text-white px-2 py-0.5 rounded-sm border border-white/30 text-[12px] w-fit;
+    }
+
+}

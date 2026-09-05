@@ -1,0 +1,92 @@
+
+[
+
+    {
+    
+        "id": 1,
+        "image-name": "batman",
+        "image": "../../../../assets/images/avatars/batman.png"
+    
+    },
+
+    {
+    
+        "id": 2,
+        "image-name": "iron_man",
+        "image": "../../../../assets/images/avatars/iron_man.png"
+    
+    },
+
+    {
+    
+        "id": 3,
+        "image-name": "spider_man",
+        "image": "../../../../assets/images/avatars/spider_man.png"
+    
+    },
+
+    {
+    
+        "id": 4,
+        "image-name": "superman",
+        "image": "../../../../assets/images/avatars/superman.png"
+    
+    },
+
+    {
+    
+        "id": 5,
+        "image-name": "zuko",
+        "image": "../../../../assets/images/avatars/zuko.png"
+    
+    },
+
+    {
+    
+        "id": 6,
+        "image-name": "jake_sully",
+        "image": "../../../../assets/images/avatars/jake_sully.png"
+    
+    },
+
+    {
+    
+        "id": 7,
+        "image-name": "luigi",
+        "image": "../../../../assets/images/avatars/luigi.png"
+    
+    },
+
+    {
+    
+        "id": 8,
+        "image-name": "mario",
+        "image": "../../../../assets/images/avatars/mario.png"
+    
+    },
+
+    {
+    
+        "id": 9,
+        "image-name": "eleven",
+        "image": "../../../../assets/images/avatars/eleven.png"
+    
+    },
+
+    {
+    
+        "id": 10,
+        "image-name": "aang",
+        "image": "../../../../assets/images/avatars/aang.png"
+    
+    },
+
+    {
+    
+        "id": 11,
+        "image-name": "demogorgon",
+        "image": "../../../../assets/images/avatars/demogorgon.png"
+    
+    }
+
+]

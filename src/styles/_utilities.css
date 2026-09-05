@@ -1,0 +1,19 @@
+@import './_theme.css';
+
+@utility flex-center {
+
+    @apply flex justify-center items-center;
+
+}
+
+@utility flex-between {
+
+    @apply flex justify-between items-center;
+
+}
+
+@utility flex-end {
+
+    @apply flex justify-end items-center;
+
+}
