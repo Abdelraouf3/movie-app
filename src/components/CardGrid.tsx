@@ -1,6 +1,6 @@
 import React from 'react'
 import { AnimatePresence, motion, Variants } from "motion/react";
-import movieImage from '../assets/images/posters/image.webp'
+import movieImage from './assets/images/posters/image.webp'
 import LabelBadge from './UI/LabelBadge'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHeart as faHeartRegular } from '@fortawesome/free-regular-svg-icons'
