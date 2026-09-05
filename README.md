@@ -291,14 +291,6 @@ This structure keeps the application easier to maintain and makes individual res
 
 ---
 
-## 👨‍💻 Portfolio
-
-Check out my portfolio to see more of my projects and frontend development work:
-
-### 👉 [**Abdelraouf Halaby — Portfolio**](https://abdelraouf3.github.io/MyPortfolio/)
-
----
-
 ## 📄 License
 
 This project was created for educational and portfolio purposes.
