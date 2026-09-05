@@ -1,8 +1,8 @@
 import { faAngleDown, faAngleUp, faCheck } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React, { ReactNode, useEffect, useRef, useState } from 'react'
-import en from './assets/flags/gb.svg'
-import ar from './assets/flags/egypt.png'
+import en from '../assets/flags/gb.svg'
+import ar from '../assets/flags/egypt.png'
 
 type DropdownVariant = 'default' | 'filter'
 
