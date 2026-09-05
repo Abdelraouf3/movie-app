@@ -11,9 +11,9 @@
         "category": "PG-13",
         "time": "108 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/obsessionBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/obsessionPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/obsessionTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/obsessionBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/obsessionPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/obsessionTitle.webp"
     
     },
 
@@ -28,9 +28,9 @@
         "category": "PG-13",
         "time": "119 min",
         "year": 2013,
-        "bannerBackgroundImage": "../assets/images/hero-banner/rickAndmoryBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/rickAndmoryPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/rickAndmoryTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/rickAndmoryBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/rickAndmoryPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/rickAndmoryTitle.webp"
     
     },
 
@@ -45,9 +45,9 @@
         "category": "PG-13",
         "time": "128 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/michaelBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/michaelPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/michaelTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/michaelBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/michaelPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/michaelTitle.webp"
     
     },
 
@@ -62,9 +62,9 @@
         "category": "PG-13",
         "time": "119 min",
         "year": 2022,
-        "bannerBackgroundImage": "../assets/images/hero-banner/fromBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/fromPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/fromTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/fromBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/fromPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/fromTitle.webp"
     
     },
 
@@ -79,9 +79,9 @@
         "category": "PG-13",
         "time": "132 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/theMandalorianAndGroguBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/theMandalorianAndGroguPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/theMandalorianAndGroguTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/theMandalorianAndGroguBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/theMandalorianAndGroguPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/theMandalorianAndGroguTitle.webp"
     
     },
 
@@ -96,9 +96,9 @@
         "category": "PG-13",
         "time": "119 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/starWarsMaulShadowLordBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/starWarsMaulShadowLordPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/starWarsMaulShadowLordTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/starWarsMaulShadowLordBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/starWarsMaulShadowLordPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/starWarsMaulShadowLordTitle.webp"
     
     },
 
@@ -113,9 +113,9 @@
         "category": "PG-13",
         "time": "116 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/mortalKombatIIBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/mortalKombatIIPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/mortalKombatIITitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/mortalKombatIIBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/mortalKombatIIPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/mortalKombatIITitle.webp"
     
     },
 
@@ -130,9 +130,9 @@
         "category": "PG-13",
         "time": "119 min",
         "year": 2021,
-        "bannerBackgroundImage": "../assets/images/hero-banner/INVINCIBLEBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/INVINCIBLEPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/INVINCIBLETitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/INVINCIBLEBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/INVINCIBLEPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/INVINCIBLETitle.webp"
     
     },
 
@@ -147,9 +147,9 @@
         "category": "PG-13",
         "time": "133 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/leeCroninsTheMummyBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/leeCroninsTheMummyPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/leeCroninsTheMummyTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/leeCroninsTheMummyBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/leeCroninsTheMummyPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/leeCroninsTheMummyTitle.webp"
     
     },
 
@@ -164,9 +164,9 @@
         "category": "PG-13",
         "time": "119 min",
         "year": 2026,
-        "bannerBackgroundImage": "../assets/images/hero-banner/aKnightOfTheSevenKingdomsBackground.webp",
-        "bannerPosterImage": "../assets/images/hero-banner/aKnightOfTheSevenKingdomsPoster.webp",
-        "bannerTitleImage": "../assets/images/hero-banner/aKnightOfTheSevenKingdomsTitle.webp"
+        "bannerBackgroundImage": "/images/hero-banner/aKnightOfTheSevenKingdomsBackground.webp",
+        "bannerPosterImage": "/images/hero-banner/aKnightOfTheSevenKingdomsPoster.webp",
+        "bannerTitleImage": "/images/hero-banner/aKnightOfTheSevenKingdomsTitle.webp"
     
     }
 
